@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles备份
+dotfiles backup
